@@ -1,5 +1,5 @@
 import * as Web3 from '@solana/web3.js'
-import Dotenv from 'Dotenv'
+import Dotenv from 'dotenv'
 Dotenv.config()
 
 async function main() {
